@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Origin, building an AI-powered social media platform for start-ups to meet the right investors. 
 - 🌱 I’m currently learning Mern Stack.
 - ⚡ I recently built a program to automate the process of my job search 
-- 👯 I’m looking to collaborate on Building Social Media Apps! Send me ideas to Aplayil9977@gmail.com 
+- 👯 I’m looking to collaborate on Building Social Media Apps!
+     - Send me ideas to Aplayil9977@gmail.com 
 
 
 <!--
